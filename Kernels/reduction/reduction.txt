@@ -1,0 +1,22 @@
+./reduction.out Starting...
+
+MapSMtoCores for SM 6.1 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "TITAN X (Pascal)" with compute capability 6.1
+
+Using Device 0: TITAN X (Pascal)
+
+Reducing array of type int
+
+16777216 elements
+256 threads (max)
+64 blocks
+
+Reduction, Throughput = 297.6927 GB/s, Time = 0.00023 s, Size = 16777216 Elements, NumDevsUsed = 1, Workgroup = 256
+GBInputPerSecond = 297.69 
+ TimeOfProcess = 0.23 
+ GBInputSize = 0.07 
+ 
+GPU result = 2139353471
+CPU result = 2139353471
+
+Test passed

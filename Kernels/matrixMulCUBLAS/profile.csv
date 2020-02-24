@@ -1,0 +1,6 @@
+==18296== NVPROF is profiling process 18296, command: matrixMulCUBLAS.out --sizemult=200 nIter=1
+==18296== Profiling application: matrixMulCUBLAS.out --sizemult=200 nIter=1
+==18296== Profiling result:
+==18296== Metric result:
+"Device","Kernel","Invocations","Metric Name","Metric Description","Min","Max","Avg"
+"Tesla P100-PCIE-12GB (0)","sgemm_128x128x8_NN_vec",2,"flop_count_dp","Floating Point Operations(Double Precision)",0,0,0

@@ -1,0 +1,48 @@
+seqLength 10, numLayers 4, hiddenSize 1000, miniBatch 1
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+i checksum (example 0) 9.876013E+03
+h checksum (example 0) 4.000000E+03
+c checksum (example 0) 4.199836E+04
+i checksum 9.876013E+03     c checksum 4.199836E+04     h checksum 4.000000E+03
+TimeOfProcessINmsec = 3.1500127316 
+ GBInputSize = 0.2569040000 
+ GBOnputSize = 0.0000040000 
+ GBOutputPerSecond = 0.0012698361 
+ GBInputPerSecond = 81.5564957648 
+ nIter 10
+Runtime 3.150013ms

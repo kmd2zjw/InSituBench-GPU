@@ -1,0 +1,17 @@
+./radixSortThrust.out Starting...
+
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+
+Sorting 10000000 32-bit unsigned int keys and values
+
+radixSortThrust, Throughput = 1642.5763 MElements/s, Time = 0.00609 s, Size = 10000000 elements
+GBInputPerSecond = 13.1406096509 
+ TimeOfProcessINmsec = 6.0879974365 
+ GBInputSize = 0.0799999982 
+ GBOnputSize = 0.0000000000 
+ Test passed

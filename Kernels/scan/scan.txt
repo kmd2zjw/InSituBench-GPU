@@ -1,0 +1,26 @@
+./scan.out Starting...
+
+MapSMtoCores for SM 6.1 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "TITAN X (Pascal)" with compute capability 6.1
+
+Allocating and initializing host arrays...
+Allocating and initializing CUDA arrays...
+Initializing CUDA-C scan...
+
+***Running GPU scan for large arrays (100 identical iterations)...
+
+Running scan for 262144 elements (26 arrays)...
+Validating the results...
+...reading back GPU results
+...scanExclusiveHost()
+ ...comparing the results
+ ...Results Match
+
+
+scan, Throughput = 821.8195 MElements/s, Time = 0.00032 s, Size = 262144 Elements, NumDevsUsed = 1, Workgroup = 256
+scan, InputProcessed = 3.2873 GB/s, Time = 0.00032 s, Size = 262144 Elements, NumDevsUsed = 1, Workgroup = 256
+
+GBInputPerSecond = 85.47 
+ TimeOfProcess = 0.32 
+ GBInputSize = 0.00 
+ Shutting down...

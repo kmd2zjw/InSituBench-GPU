@@ -1,0 +1,15 @@
+InputPerSecond = 2.1415872740 
+ TimeOfProcessINmsec = 1377.0720214844 
+ GBInputSize = 2949120000.0000000000 
+ GBOnputSize = 1474560000.0000000000 
+error: expected 4000 metric events, got 8
+ Metric dram_read_bytes = 263004074400
+correct Metric dram_read_bytes = 1052016297600
+
+GBInputPerSecond = 2.1408716242 
+ TimeOfProcessINmsec = 1377.5323486328 
+ GBInputSize = 2949120000.0000000000 
+ GBOnputSize = 1474560000.0000000000 
+error: expected 4000 metric events, got 8
+ Metric dram_write_bytes = 1310504544
+correct Metric dram_write_bytes = 5242018176

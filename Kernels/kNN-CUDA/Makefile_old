@@ -1,0 +1,35 @@
+.PHONY: all 
+INCLUDES  := -I../../common/inc
+
+HOST=$(shell hostname)
+ifeq (${HOST},automata20)
+	CUDA_PATH?=/usr/local/cuda
+else
+	CUDA_PATH?=/sw/centos/cuda/10.0
+endif
+
+LIBS= -lcuda -L $(CUDA_PATH)/extras/CUPTI/lib -L $(CUDA_PATH)/extras/CUPTI/lib64 -lcupti
+all: kNN-CUDA.out main_for_metric.out
+DEFINE_FLAG = -DMETRIC_RUN_MAIN
+DEFINE_FLAG += -DMETRIC_RUN_ONLY_ONCE
+DEFINE_FLAG += -DMETRIC_NOT_RUN_OTHER_EVENTS 
+CUPTI_INCLUDES=-I../../CUDA_10_CUPTI_include
+#DEBUG_FLAG = -g
+kNN-CUDA.out:
+	nvcc -o kNN-CUDA.out $(INCLUDES) $(DEBUG_FLAG)  -DONLY_TIME_KERNELS test.cpp knncuda.cu -lcuda -lcublas -lcudart -Wno-deprecated-gpu-targets
+
+main_for_metric.o: main_for_metric.cpp 
+	$(EXEC) $(NVCC)  $(INCLUDES) $(CUPTI_INCLUDES) -o $@ -c $<
+	
+test_forMetric.o:test.cpp
+	$(EXEC) $(NVCC) $(INCLUDES) $(ALL_CCFLAGS) $(GENCODE_FLAGS) $(DEFINE_FLAG) -o $@ -c $<
+knncuda_forMetric.o:knncuda.cu
+	$(EXEC) $(NVCC) $(INCLUDES) $(ALL_CCFLAGS) $(GENCODE_FLAGS) $(DEFINE_FLAG) -o $@ -c $<	
+	
+	
+main_for_metric.out:  main_for_metric.o test_forMetric.o knncuda_forMetric.o
+	$(EXEC) $(NVCC) $(ALL_LDFLAGS) $(GENCODE_FLAGS) -o $@ $+ $(LIBRARIES) $(LIBS)
+#	$(EXEC) mkdir -p ../../bin/$(TARGET_ARCH)/$(TARGET_OS)/$(BUILD_TYPE)
+
+clean:
+	rm kNN-CUDA.out main_for_metric.out main_for_metric.o test_forMetric.o knncuda_forMetric.o

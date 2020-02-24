@@ -1,0 +1,10 @@
+[Matrix Multiply CUBLAS] - Starting...
+GPU Device 0: "TITAN X (Pascal)" with compute capability 6.1
+
+MatrixA(25600,19200), MatrixB(19200,1), MatrixC(25600,1)
+Computing result using CUBLAS...done.
+Performance= 60.95 GFlop/s, Time= 16.127 msec, Size= 983040000 Ops
+GBInputPerSecond = 121.91 
+ TimeOfProcess = 16.13 
+ GBInputSize = 1966156800.00 
+ 

@@ -1,0 +1,10 @@
+[AXPY CUBLAS] - Starting...
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+matrix size is 1 , 1000000000Computing result using CUBLAS...done.
+mem_size_A is 4000000000, size of numeric is 4
+GBInputPerSecond = 128.8797619063 
+ TimeOfProcessINmsec = 28.7479782104 
+ GBInputSize = 8.0000000000 
+ GBOnputSize = 4.0000000000 
+ nIter 30
