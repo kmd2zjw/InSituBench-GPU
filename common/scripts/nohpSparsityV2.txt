@@ -1,0 +1,1749 @@
+lynx07
+0.01
+./spmv.out --Num=32768 --percentage=0.01
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed.csv --metrics inst_executed
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 709.2039184570 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001848157 
+ GBInputPerSecond = 0.1822356541 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_integer.csv --metrics inst_integer
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 44872.4296875000 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000029210 
+ GBInputPerSecond = 0.0028802149 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_fp_16.csv --metrics inst_fp_16
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 584.9996337891 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002240548 
+ GBInputPerSecond = 0.2209270443 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_fp_32.csv --metrics inst_fp_32
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 11843.5986328125 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000110669 
+ GBInputPerSecond = 0.0109124130 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_fp_64.csv --metrics inst_fp_64
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 585.1072998047 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002240136 
+ GBInputPerSecond = 0.2208863913 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_control.csv --metrics inst_control
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 7679.7993164062 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000170671 
+ GBInputPerSecond = 0.0168288564 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_global_atomics.csv --metrics inst_executed_global_atomics
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 583.8010864258 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002245148 
+ GBInputPerSecond = 0.2213806089 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_global_loads.csv --metrics inst_executed_global_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1177.5805664062 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001113062 
+ GBInputPerSecond = 0.1097523547 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_global_reductions.csv --metrics inst_executed_global_reductions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 578.3009643555 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002266501 
+ GBInputPerSecond = 0.2234861222 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_local_loads.csv --metrics inst_executed_local_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1176.0253906250 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001114534 
+ GBInputPerSecond = 0.1098974912 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_shared_atomics.csv --metrics inst_executed_shared_atomics
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 583.3905639648 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002246728 
+ GBInputPerSecond = 0.2215363909 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_shared_loads.csv --metrics inst_executed_shared_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1176.7109375000 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001113884 
+ GBInputPerSecond = 0.1098334654 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_tex_ops.csv --metrics inst_executed_tex_ops
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 565.4761352539 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002317905 
+ GBInputPerSecond = 0.2285547204 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_surface_reductions.csv --metrics inst_executed_surface_reductions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 576.2681884766 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002274497 
+ GBInputPerSecond = 0.2242744656 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_surface_loads.csv --metrics inst_executed_surface_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 579.7754516602 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002260737 
+ GBInputPerSecond = 0.2229177514 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_global_stores.csv --metrics inst_executed_global_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1175.4244384766 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001115104 
+ GBInputPerSecond = 0.1099536778 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_local_stores.csv --metrics inst_executed_local_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1170.9844970703 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001119332 
+ GBInputPerSecond = 0.1103705816 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_shared_stores.csv --metrics inst_executed_shared_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1176.4484863281 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001114133 
+ GBInputPerSecond = 0.1098579679 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/inst_executed_surface_stores.csv --metrics inst_executed_surface_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 576.2265014648 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002274661 
+ GBInputPerSecond = 0.2242906907 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/local_load_requests.csv --metrics local_load_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 567.4256591797 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002309941 
+ GBInputPerSecond = 0.2277694671 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/local_store_requests.csv --metrics local_store_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 566.9863891602 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002311731 
+ GBInputPerSecond = 0.2279459304 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/tex_cache_transactions.csv --metrics tex_cache_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 569.4682006836 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002301656 
+ GBInputPerSecond = 0.2269525144 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/tex_cache_hit_rate.csv --metrics tex_cache_hit_rate
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1199.2009277344 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001092994 
+ GBInputPerSecond = 0.1077736324 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/shared_load_transactions.csv --metrics shared_load_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 578.7418823242 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002264775 
+ GBInputPerSecond = 0.2233158580 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/shared_store_transactions.csv --metrics shared_store_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 578.1272583008 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002267182 
+ GBInputPerSecond = 0.2235532716 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/global_load_requests.csv --metrics global_load_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 567.5908203125 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002309269 
+ GBInputPerSecond = 0.2277031893 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/global_store_requests.csv --metrics global_store_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 568.1202392578 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002307117 
+ GBInputPerSecond = 0.2274909976 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/global_hit_rate.csv --metrics global_hit_rate
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 18484.2109375000 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000070910 
+ GBInputPerSecond = 0.0069920345 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/l2_read_transactions.csv --metrics l2_read_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 580.1487426758 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002259283 
+ GBInputPerSecond = 0.2227743172 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/l2_write_transactions.csv --metrics l2_write_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 575.5960083008 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002277153 
+ GBInputPerSecond = 0.2245363730 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/dram_read_bytes.csv --metrics dram_read_bytes
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1156.6544189453 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001133199 
+ GBInputPerSecond = 0.1117379901 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/dram_write_bytes.csv --metrics dram_write_bytes
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1150.4589843750 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001139302 
+ GBInputPerSecond = 0.1123397198 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/dram_read_transactions.csv --metrics dram_read_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1151.2331542969 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001138536 
+ GBInputPerSecond = 0.1122641747 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/dram_write_transactions.csv --metrics dram_write_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 1152.7769775391 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001137011 
+ GBInputPerSecond = 0.1121138282 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/executionTime.csv --metrics executionTime
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 30 
+TimeOfProcessINmsec = 724.8113403320 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001808360 
+ GBInputPerSecond = 0.1783115589 
+ nIter 30
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/powerConsumption.csv --metrics powerConsumption
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 30 
+TimeOfProcessINmsec = 2246.6853027344 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000583402 
+ GBInputPerSecond = 0.0575257424 
+ nIter 30
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_constant_memory_dependency.csv --metrics stall_constant_memory_dependency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 14339.2900390625 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000091408 
+ GBInputPerSecond = 0.0090131547 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_exec_dependency.csv --metrics stall_exec_dependency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 14341.4941406250 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000091394 
+ GBInputPerSecond = 0.0090117695 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_inst_fetch.csv --metrics stall_inst_fetch
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 14334.3291015625 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000091439 
+ GBInputPerSecond = 0.0090162741 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_memory_dependency.csv --metrics stall_memory_dependency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 14330.7500000000 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000091462 
+ GBInputPerSecond = 0.0090185259 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_memory_throttle.csv --metrics stall_memory_throttle
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 14332.8466796875 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000091449 
+ GBInputPerSecond = 0.0090172066 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_not_selected.csv --metrics stall_not_selected
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 14304.6425781250 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000091629 
+ GBInputPerSecond = 0.0090349856 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_other.csv --metrics stall_other
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 14203.6337890625 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000092281 
+ GBInputPerSecond = 0.0090992377 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_pipe_busy.csv --metrics stall_pipe_busy
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 26705.9511718750 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000049080 
+ GBInputPerSecond = 0.0048394547 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_sync.csv --metrics stall_sync
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 26611.1640625000 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000049255 
+ GBInputPerSecond = 0.0048566925 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/stall_texture.csv --metrics stall_texture
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 26591.0683593750 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000049292 
+ GBInputPerSecond = 0.0048603628 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/sm_efficiency.csv --metrics sm_efficiency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 10737418
+nIter = 1 
+TimeOfProcessINmsec = 601.6093139648 
+ GBInputSize = 0.1292422400 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0002178690 
+ GBInputPerSecond = 0.2148275251 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 10737418, NZ_percentage is 0.010000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv01/branch_efficiency .csv --metrics branch_efficiency
++ for i in '{1..10..1}'
++ numRow=32768
+++ python -c 'from math import ceil; print 0.01*2'
++ percent=0.02
++ echo 0.02
+0.02
++ printf -v iFormated '%02d\n' 2
++ CommomFlags=' --Num=32768 --percentage=0.02  '
++ prof_and_parse 9_myExamples/SPMV spmv 'spmv02
+' /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange '${CommomFlags}' 100000rows_2_percent
++ set +x
+./spmv.out --Num=32768 --percentage=0.02
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed.csv --metrics inst_executed
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1400.8486328125 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000935661 
+ GBInputPerSecond = 0.1842392175 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_integer.csv --metrics inst_integer
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 158099.8125000000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000008290 
+ GBInputPerSecond = 0.0016324577 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_fp_16.csv --metrics inst_fp_16
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1264.6467285156 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001036432 
+ GBInputPerSecond = 0.2040817014 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_fp_32.csv --metrics inst_fp_32
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 37400.1484375000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000035046 
+ GBInputPerSecond = 0.0069008083 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_fp_64.csv --metrics inst_fp_64
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1252.1623535156 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001046765 
+ GBInputPerSecond = 0.2061164475 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_control.csv --metrics inst_control
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 21028.4785156250 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000062331 
+ GBInputPerSecond = 0.0122734156 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_global_atomics.csv --metrics inst_executed_global_atomics
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1243.1658935547 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001054340 
+ GBInputPerSecond = 0.2076080572 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_global_loads.csv --metrics inst_executed_global_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 5887.3544921875 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000222633 
+ GBInputPerSecond = 0.0438382395 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_global_reductions.csv --metrics inst_executed_global_reductions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1245.9287109375 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001052002 
+ GBInputPerSecond = 0.2071476913 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_local_loads.csv --metrics inst_executed_local_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 4697.3398437500 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000279035 
+ GBInputPerSecond = 0.0549441311 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_shared_atomics.csv --metrics inst_executed_shared_atomics
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1240.3454589844 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001056738 
+ GBInputPerSecond = 0.2080801394 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_shared_loads.csv --metrics inst_executed_shared_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 5860.1391601562 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000223667 
+ GBInputPerSecond = 0.0440418306 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_tex_ops.csv --metrics inst_executed_tex_ops
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1247.4747314453 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001050699 
+ GBInputPerSecond = 0.2068909690 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_surface_reductions.csv --metrics inst_executed_surface_reductions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1206.3654785156 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001086503 
+ GBInputPerSecond = 0.2139411817 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_surface_loads.csv --metrics inst_executed_surface_loads
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1207.4941406250 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001085488 
+ GBInputPerSecond = 0.2137412078 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_global_stores.csv --metrics inst_executed_global_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 5605.5615234375 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000233825 
+ GBInputPerSecond = 0.0460419986 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_local_stores.csv --metrics inst_executed_local_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 5845.6235351562 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000224222 
+ GBInputPerSecond = 0.0441511935 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_shared_stores.csv --metrics inst_executed_shared_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 2631.8854980469 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000498016 
+ GBInputPerSecond = 0.0980632540 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/inst_executed_surface_stores.csv --metrics inst_executed_surface_stores
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1220.8553466797 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001073608 
+ GBInputPerSecond = 0.2114019951 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/local_load_requests.csv --metrics local_load_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1263.7027587891 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001037206 
+ GBInputPerSecond = 0.2042341478 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/local_store_requests.csv --metrics local_store_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1244.2163085938 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001053450 
+ GBInputPerSecond = 0.2074327866 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/tex_cache_transactions.csv --metrics tex_cache_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1245.9544677734 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001051981 
+ GBInputPerSecond = 0.2071434091 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/tex_cache_hit_rate.csv --metrics tex_cache_hit_rate
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 7635.2285156250 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000171667 
+ GBInputPerSecond = 0.0338026891 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/shared_load_transactions.csv --metrics shared_load_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1245.9509277344 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001051984 
+ GBInputPerSecond = 0.2071439976 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/shared_store_transactions.csv --metrics shared_store_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1209.8276367188 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001083394 
+ GBInputPerSecond = 0.2133289472 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/global_load_requests.csv --metrics global_load_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1244.6481933594 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001053085 
+ GBInputPerSecond = 0.2073608088 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/global_store_requests.csv --metrics global_store_requests
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1254.3034667969 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001044978 
+ GBInputPerSecond = 0.2057646039 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/global_hit_rate.csv --metrics global_hit_rate
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 82729.0625000000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000015844 
+ GBInputPerSecond = 0.0031197169 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/l2_read_transactions.csv --metrics l2_read_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1252.5205078125 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001046466 
+ GBInputPerSecond = 0.2060575092 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/l2_write_transactions.csv --metrics l2_write_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 1258.9416503906 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0001041128 
+ GBInputPerSecond = 0.2050065274 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/dram_read_bytes.csv --metrics dram_read_bytes
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 11097.8359375000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000118106 
+ GBInputPerSecond = 0.0232559985 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/dram_write_bytes.csv --metrics dram_write_bytes
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 14663.5566406250 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000089386 
+ GBInputPerSecond = 0.0176008633 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/dram_read_transactions.csv --metrics dram_read_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 14898.0410156250 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000087979 
+ GBInputPerSecond = 0.0173238385 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/dram_write_transactions.csv --metrics dram_write_transactions
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 15104.1464843750 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000086779 
+ GBInputPerSecond = 0.0170874439 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/executionTime.csv --metrics executionTime
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 30 
+TimeOfProcessINmsec = 4642.6777343750 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000282320 
+ GBInputPerSecond = 0.0555910340 
+ nIter 30
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/powerConsumption.csv --metrics powerConsumption
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 30 
+TimeOfProcessINmsec = 4657.6508789062 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000281412 
+ GBInputPerSecond = 0.0554123232 
+ nIter 30
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_constant_memory_dependency.csv --metrics stall_constant_memory_dependency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 45011.5820312500 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000029120 
+ GBInputPerSecond = 0.0057338855 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_exec_dependency.csv --metrics stall_exec_dependency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 49832.2617187500 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000026303 
+ GBInputPerSecond = 0.0051792001 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_inst_fetch.csv --metrics stall_inst_fetch
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 54624.9570312500 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000023995 
+ GBInputPerSecond = 0.0047247864 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_memory_dependency.csv --metrics stall_memory_dependency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 50023.8125000000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000026202 
+ GBInputPerSecond = 0.0051593680 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_memory_throttle.csv --metrics stall_memory_throttle
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 54687.1367187500 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000023968 
+ GBInputPerSecond = 0.0047194143 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_not_selected.csv --metrics stall_not_selected
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 28662.3574218750 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000045730 
+ GBInputPerSecond = 0.0090045369 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_other.csv --metrics stall_other
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 25904.2109375000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000050599 
+ GBInputPerSecond = 0.0099632935 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_pipe_busy.csv --metrics stall_pipe_busy
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 54759.7460937500 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000023936 
+ GBInputPerSecond = 0.0047131566 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_sync.csv --metrics stall_sync
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 54766.0625000000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000023933 
+ GBInputPerSecond = 0.0047126130 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/stall_texture.csv --metrics stall_texture
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 49964.6835937500 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000026233 
+ GBInputPerSecond = 0.0051654736 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/sm_efficiency.csv --metrics sm_efficiency
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 21474836
+nIter = 1 
+TimeOfProcessINmsec = 2463.9218750000 
+ GBInputSize = 0.2580912560 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000531965 
+ GBInputPerSecond = 0.1047481491 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 21474836, NZ_percentage is 0.020000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv02/branch_efficiency .csv --metrics branch_efficiency
++ for i in '{1..10..1}'
++ numRow=32768
+++ python -c 'from math import ceil; print 0.01*3'
++ percent=0.03
++ echo 0.03
+0.03
++ printf -v iFormated '%02d\n' 3
++ CommomFlags=' --Num=32768 --percentage=0.03  '
++ prof_and_parse 9_myExamples/SPMV spmv 'spmv03
+' /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange '${CommomFlags}' 100000rows_3_percent
++ set +x
+./spmv.out --Num=32768 --percentage=0.03
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv03/inst_executed.csv --metrics inst_executed
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 32212254
+nIter = 1 
+TimeOfProcessINmsec = 4034.0085449219 
+ GBInputSize = 0.3869402720 
+ GBOutputSize = 0.0001310720 
+ GBOutputPerSecond = 0.0000324918 
+ GBInputPerSecond = 0.0959195469 
+ nIter 1
+ N is 32768, M is 32768 ,nz is 32212254, NZ_percentage is 0.030000 
+--csv --log-file /zf14/ml2au/summaryResults/sparicityRateResult/SPMV_NarrowRange/spmv03/inst_integer.csv --metrics inst_integer
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+MapSMtoCores for SM 6.0 is undefined.  Default to use 128 Cores/SM
+GPU Device 0: "Tesla P100-PCIE-12GB" with compute capability 6.0
+
+> GPU device has 56 Multi-Processors, SM 6.0 compute capabilities
+
+number of non zero valuues is 32212254
