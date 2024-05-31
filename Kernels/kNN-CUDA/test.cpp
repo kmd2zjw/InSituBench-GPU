@@ -67,9 +67,9 @@ float compute_distance(const float * ref,
     float sum = 0.f;
     for (int d=0; d<dim; ++d) {
         const float diff = ref[d * ref_nb + ref_index] - query[d * query_nb + query_index];
-        sum += diff * diff;
+        sum += abs(diff);
     }
-    return sqrtf(sum);
+    return sum;
 }
 
 

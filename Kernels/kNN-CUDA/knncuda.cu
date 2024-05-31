@@ -82,7 +82,7 @@ __global__ void compute_distances(float * ref,
         if (cond2 && cond1) {
             for (int k = 0; k < BLOCK_DIM; ++k){
                 float tmp = shared_A[k][ty] - shared_B[k][tx];
-                ssd += tmp*tmp;
+                ssd += fabsf(tmp);
             }
         }
 
@@ -406,7 +406,7 @@ bool knn_cuda_global(const float * ref,
 		dim3 grid2(query_nb / 16, k / 16, 1);
 		if (query_nb % 16 != 0) grid2.x += 1;
 		if (k % 16 != 0)        grid2.y += 1;
-		compute_sqrt<<<grid2, block2>>>(dist_dev, query_nb, query_pitch, k);
+		//compute_sqrt<<<grid2, block2>>>(dist_dev, query_nb, query_pitch, k);
 		/*
 		if (cudaGetLastError() != cudaSuccess) {
 			printf("ERROR: Unable to execute kernel\n");
